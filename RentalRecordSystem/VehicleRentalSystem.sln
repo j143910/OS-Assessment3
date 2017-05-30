@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalRecordSystemGUI", "RentalRecordSystemGUI\RentalRecordSystemGUI.csproj", "{1F5CC25C-DF3A-4DB9-A353-838A8C9EA6CC}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRentalLibrary", "VehicleRentalLibrary\VehicleRentalLibrary.csproj", "{E69B0C58-4E9E-4CDA-B632-91C82E92F8F2}"
 EndProject
 Global
